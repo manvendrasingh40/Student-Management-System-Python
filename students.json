@@ -1,0 +1,30 @@
+{
+    "100": {
+        "student_name": "raj",
+        "student_age": 19,
+        "student_course": "b.tech",
+        "student_marks": 100,
+        "date": "30-08-2026"
+    },
+    "102": {
+        "student_name": "mannu",
+        "student_age": 90,
+        "student_course": "b.tech",
+        "student_marks": 90,
+        "date": "06-09-2026"
+    },
+    "103": {
+        "student_name": "Jai",
+        "student_age": 19,
+        "student_course": "BCA",
+        "student_marks": 100,
+        "date": "06-09-2026"
+    },
+    "104": {
+        "student_name": "Mannu",
+        "student_age": 21,
+        "student_course": "B.tech",
+        "student_marks": 100,
+        "date": "06-09-2026"
+    }
+}
